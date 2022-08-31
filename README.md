@@ -1,0 +1,2 @@
+# Treadmill
+Product Purchased: TM1, TM2, or TM3 Age: In years Gender: Male/Female Education: In years Marital Status:  Single or partnered Treadmill Usage: The average number of times the customer plans to use the treadmill each week. Salary: Annual income (in pounds) Fitness Level: Self-rated fitness on a 1-to-5 scale, where 1 is the poor shape and 5 is the excellent shape. Miles: The average number of miles the customer expects to walk/run each wee
